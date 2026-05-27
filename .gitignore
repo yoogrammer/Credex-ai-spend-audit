@@ -1,0 +1,6 @@
+node_modules/
+ai-spend-audit/node_modules/
+ai-spend-audit/.next/
+ai-spend-audit/.env.local
+coverage/
+.DS_Store

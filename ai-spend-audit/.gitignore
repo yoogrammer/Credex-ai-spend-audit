@@ -1,7 +1,6 @@
 node_modules/
 .next/
 .env.local
-package-lock.json
 dist/
 coverage/
 .DS_Store
